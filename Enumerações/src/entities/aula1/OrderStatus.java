@@ -1,0 +1,8 @@
+package entities.aula1;
+
+public enum OrderStatus{
+	PENDING_PAYMENT, //PAGEMENTO PENDENTE
+	PROCESSING, // PROCESSANDO
+	SHIPPED, //ENVIADO
+	DELIVERED; // RECEBIDO
+}
